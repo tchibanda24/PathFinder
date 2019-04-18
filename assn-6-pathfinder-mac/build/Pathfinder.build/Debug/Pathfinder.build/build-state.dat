@@ -1,0 +1,462 @@
+TPathfinder
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/Info.plist Info.plist
+cCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004DC1CFC9000000000000A5F0
+t1304547273
+s42480
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004DC1CFCA000000000000A5E0
+t1304547274
+s42464
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004DE5A33C0000000000785970
+t1306895164
+s7887216
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app
+t1313101157
+s102
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/Info.plist
+t1306131421
+s728
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/MacOS/Pathfinder
+t1313101156
+s215652
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/PkgInfo
+t1306131421
+s8
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/Pathfinder.LinkFileList
+c000000004E44334100000000000002E9
+t1313092417
+s745
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o
+t1313092422
+s88248
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o
+t1313092419
+s152
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o
+t2
+s0
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o
+t2
+s0
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o
+t1313092419
+s152
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/bst.h
+c000000004B08F2FC0000000000001562
+t1258877692
+s5474
+i"genlib.h"
+i"cmpfn.h"
+i"stack.h"
+i"foreach.h"
+i"private/bstpriv.h"
+i"private/bstimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/cmpfn.h
+c000000004B08F2FC0000000000000311
+t1258877692
+s785
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/extgraph.h
+c000000004B08F2FC000000000000430E
+t1258877692
+s17166
+i"genlib.h"
+i"graphics.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/foreach.h
+c000000004B08F2FC000000000000081E
+t1258877692
+s2078
+i"genlib.h"
+i<ios>
+i<fstream>
+i<sstream>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/genlib.h
+c000000004C4713E600000000000007DD
+t1279726566
+s2013
+i<string>
+i<exception>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/graph.h
+c000000004B13146800000000000019EF
+t1259541608
+s6639
+i"set.h"
+i"map.h"
+i"private/graphpriv.h"
+i"private/graphimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/graphics.h
+c000000004B08F2FC00000000000012DA
+t1258877692
+s4826
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/libcs106.a
+c000000004D60A812000000000008C4E8
+t1298180114
+s574696
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/map.h
+c000000004B09C4AE00000000000019AB
+t1258931374
+s6571
+i"genlib.h"
+i"vector.h"
+i"foreach.h"
+i<string>
+i<cstdlib>
+i"private/mappriv.h"
+i"private/mapimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/bstimpl.cpp
+c000000004B130E7800000000000037EA
+t1259540088
+s14314
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/bstpriv.h
+c000000004D60571E0000000000000C95
+t1298159390
+s3221
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/graphimpl.cpp
+c000000004B1314460000000000002C19
+t1259541574
+s11289
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/graphpriv.h
+c000000004B1314460000000000000327
+t1259541574
+s807
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/mapimpl.cpp
+c000000004B130E78000000000000249D
+t1259540088
+s9373
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/mappriv.h
+c000000004B130E78000000000000091A
+t1259540088
+s2330
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/scannerpriv.h
+c000000004B2B58E40000000000000382
+t1261132004
+s898
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/setimpl.cpp
+c000000004B130E7800000000000013B8
+t1259540088
+s5048
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/setpriv.h
+c000000004B130E7800000000000006A8
+t1259540088
+s1704
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/stackimpl.cpp
+c000000004B130E780000000000000592
+t1259540088
+s1426
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/stackpriv.h
+c000000004B130E78000000000000046A
+t1259540088
+s1130
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/vectorimpl.cpp
+c000000004B130E7800000000000017CB
+t1259540088
+s6091
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/vectorpriv.h
+c000000004B130E7800000000000006A7
+t1259540088
+s1703
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/random.h
+c000000004B08F2FC00000000000007DB
+t1258877692
+s2011
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/scanner.h
+c000000004B2B58E40000000000002236
+t1261132004
+s8758
+i"genlib.h"
+i"stack.h"
+i<string>
+i<iostream>
+i"private/scannerpriv.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/set.h
+c000000004B08F2FC0000000000001BF7
+t1258877692
+s7159
+i"cmpfn.h"
+i"bst.h"
+i"vector.h"
+i"foreach.h"
+i"private/setpriv.h"
+i"private/setimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/simpio.h
+c000000004B08F2FC0000000000000671
+t1258877692
+s1649
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/stack.h
+c000000004B08F2FC0000000000000B38
+t1258877692
+s2872
+i"vector.h"
+i"private/stackpriv.h"
+i"private/stackimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/strutils.h
+c000000004B08F2FC0000000000000877
+t1258877692
+s2167
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/vector.h
+c000000004B08F2FC0000000000001BE7
+t1258877692
+s7143
+i"genlib.h"
+i"strutils.h"
+i"foreach.h"
+i"private/vectorpriv.h"
+i"private/vectorimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp
+c000000004B05C8FC000000000000350E
+t1258670332
+s13582
+i"genlib.h"
+i"extgraph.h"
+i"gpathfinder.h"
+i"point.h"
+i"vector.h"
+i<iostream>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.h
+c000000004AFD794A0000000000001951
+t1258125642
+s6481
+i"genlib.h"
+i"point.h"
+i"gpathfinderimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp
+c000000004AFD7B0400000000000010F8
+t1258126084
+s4344
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/graphtypes.h
+c000000004E4467EA0000000000000395
+t1313105898
+s917
+i"set.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp
+c000000004E4467EA00000000000009CB
+t1313105898
+s2507
+i"genlib.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp
+c000000004E445EDC00000000000016BF
+t1313103580
+s5823
+i"genlib.h"
+i"gpathfinder.h"
+i"simpio.h"
+i"random.h"
+i"scanner.h"
+i"graphtypes.h"
+i"graph.h"
+i<iostream>
+i<fstream>
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/point.h
+c000000004AFC209A0000000000000149
+t1258037402
+s329
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueue.h
+c000000004AFCC9DA0000000000000978
+t1258080730
+s2424
+i"vector.h"
+i"pqueuepriv.h"
+i"pqueueimpl.cpp"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp
+c000000004DDC7E7F0000000000000A79
+t1306295935
+s2681
+i"genlib.h"
+i"pqueue.h"
+i"vector.h"
+
+N/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueuepriv.h
+c000000004AFCC9DA00000000000001E9
+t1258080730
+s489
+
+NInfo.plist
+c0000000049CA892E0000000000000326
+t1238010158
+s806
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp
+r0
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp
+r0
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp
+r0
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp
+r0
+
+CBuild AST from /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa4e2536a9ff4b341^008e596a9ff4b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s334785217.797506
+e334785222.193837
+r1
+xCompileC
+xbuild/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp145cccc16af4b341^45a131c66af4b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp0000000000000000^1322"CompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o gpathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Pathfinder.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinder.o
+
+CCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s334785217.798067
+e334785219.093147
+r1
+xCompileC
+xbuild/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp1767ccc16af4b341^1bd717c36af4b341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp0000000000000000^1338"CompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o gpathfinderimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Pathfinder.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/gpathfinderimpl.o
+
+CCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s334798698.354476
+e334798699.097148
+r0
+xCompileC
+xbuild/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In constructor 'Path::Path()':
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:31: warning: unused variable 'finalPath'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:32: warning: unused variable 'pathF'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In member function 'double Path::GetDistance()':
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:55: error: request for member 'foreachHook' in '((Path*)this)->Path::finalPath', which is of non-class type 'Vector<arcT>*'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In member function 'void Path::FindPath()':
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:78: error: no matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp:42: note: candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cppb6db5a6a9ff4b341^89ef1c6b9ff4b341^-1179"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In constructor 'Path::Path()':/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:31: warning: unused variable 'finalPath'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:32: warning: unused variable 'pathF'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In member function 'double Path::GetDistance()':/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:55: error: request for member 'foreachHook' in '((Path*)this)->Path::finalPath', which is of non-class type 'Vector<arcT>*'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp: In member function 'void Path::FindPath()':/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp:78: error: no matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp:42: note: candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]5(21%IDEActivityLogMessage2@27"Unused variable 'finalPath'-334798698#111#120#-1#-23%DVTTextDocumentLocation3@94"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@23"Unused variable 'pathF'-334798698#231#116#-1#-3@94"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp0000000000000000^31#18446744073709551615#31#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@112"Request for member 'foreachHook' in '((Path*)this)->Path::finalPath', which is of non-class type 'Vector<arcT>*'-334798698#476#203#-2#-3@94"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@89"No matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'-334798698#803#180#-2#-3@94"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp0000000000000000^77#18446744073709551615#77#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@87"Candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]-334798698#983#196#-0#-3@113"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp0000000000000000^1294"CompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o path.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Pathfinder.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/path.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/path.o
+
+CCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s334798698.354580
+e334798698.897033
+r0
+xCompileC
+xbuild/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp: In function 'int Main()':
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:43: error: no matching function for call to 'AddButton(const char [9], Vector<arcT*> (&)(Graph<nodeT, arcT>&), Graph<nodeT, arcT>&)'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.h:122: note: candidates are: void AddButton(std::string, void (*)())
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp:116: note:                 void AddButton(std::string, ButtonCallbackBase*)
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp: In function 'Vector<arcT*> FindShortest(Graph<nodeT, arcT>&)':
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:208: error: 'start' was not declared in this scope
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:208: error: 'finish' was not declared in this scope
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:215: error: no matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'
+o/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp:42: note: candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp05e15a6a9ff4b341^ff91e56a9ff4b341^-1452"/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp: In function 'int Main()':/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:43: error: no matching function for call to 'AddButton(const char [9], Vector<arcT*> (&)(Graph<nodeT, arcT>&), Graph<nodeT, arcT>&)'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.h:122: note: candidates are: void AddButton(std::string, void (*)())/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp:116: note:                 void AddButton(std::string, ButtonCallbackBase*)/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp: In function 'Vector<arcT*> FindShortest(Graph<nodeT, arcT>&)':/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:208: error: 'start' was not declared in this scope/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:208: error: 'finish' was not declared in this scope/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp:215: error: no matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp:42: note: candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]7(21%IDEActivityLogMessage2@121"No matching function for call to 'AddButton(const char [9], Vector<arcT*> (&)(Graph<nodeT, arcT>&), Graph<nodeT, arcT>&)'-334798698#112#218#-2#-23%DVTTextDocumentLocation3@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@55"Candidates are: void AddButton(std::string, void (*)())-334798698#330#151#-0#-3@99"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinder.h0000000000000000^121#18446744073709551615#121#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@48"Void AddButton(std::string, ButtonCallbackBase*)-334798698#481#166#-0#-3@105"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/gpathfinderimpl.cpp0000000000000000^115#18446744073709551615#115#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@38"'start' was not declared in this scope-334798698#796#136#-2#-3@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp0000000000000000^207#18446744073709551615#207#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'finish' was not declared in this scope-334798698#932#137#-2#-3@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp0000000000000000^207#18446744073709551615#207#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@89"No matching function for call to 'Queue<Vector<arcT*> >::enqueue(Vector<arcT*>&, double)'-334798698#1069#187#-2#-3@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp0000000000000000^214#18446744073709551615#214#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@87"Candidates are: void Queue<ElemType>::enqueue(ElemType) [with ElemType = Vector<arcT*>]-334798698#1256#196#-0#-3@113"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106/private/queueimpl.cpp0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp0000000000000000^1318"CompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o pathfinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Pathfinder.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pathfinder.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pathfinder.o
+
+CCompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s334785219.094332
+e334785219.245889
+r1
+xCompileC
+xbuild/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp213a18c36af4b341^99f13ec36af4b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp0000000000000000^1318"CompileC build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o pqueueimpl.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Pathfinder.hmap -Ics106 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/include -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources/i386 -I/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/DerivedSources -Wall -Wno-sign-compare -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -fstack-check -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/pqueueimpl.cpp -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/pqueueimpl.o
+
+CLd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/MacOS/Pathfinder normal i386
+s334793955.814522
+e334793957.028055
+r1
+xLd
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/MacOS/Pathfinder
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/MacOS/Pathfinderd594d0e38cf4b341^be2e07e58cf4b341^---0#0#0#--762"Ld ./Pathfinder.app/Contents/MacOS/Pathfinder normal i386    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -L/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -Lcs106 -L/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/cs106 -F/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac -filelist /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/build/Pathfinder.build/Debug/Pathfinder.build/Objects-normal/i386/Pathfinder.LinkFileList -framework Cocoa -framework Carbon -framework QuickTime -lcs106 -o /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/MacOS/Pathfinder
+
+CProcessInfoPlistFile /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app
+s334793957.031232
+e334793957.036582
+r1
+xTouch
+x/Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Touch /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app7b1208e58cf4b341^245f09e58cf4b341^---0#0#0#--209"Touch ./Pathfinder.app    cd /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac    /usr/bin/touch -c /Users/Thabani_Chibanda/Dropbox/CS106B_Stanford/assn-6-pathfinder-mac/./Pathfinder.app
+
